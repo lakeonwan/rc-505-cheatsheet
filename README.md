@@ -13,7 +13,8 @@ Boss RC-505 cheatsheet
 
 ## 
 ⏸︎ pause
-23F9 ⏹︎ stop
-23FA ⏺︎ record
+⏹︎ stop
+⏺︎ record
+▶ play
 
 https://static.roland.com/assets/media/pdf/RC-505_e02_W.pdf
