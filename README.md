@@ -1,5 +1,5 @@
 # rc-505-cheatsheet
-Boss RC-505 cheatsheet
+Boss RC-505 (mk1) cheatsheet
 
 |scope |task                   |buttons                        |
 |------|-----------------------|-------------------------------|
@@ -18,3 +18,10 @@ Boss RC-505 cheatsheet
 ▶ play
 
 https://static.roland.com/assets/media/pdf/RC-505_e02_W.pdf
+
+## Resources
+https://rc50looper.jimdofree.com/rc-505/
+https://www.youtube.com/@BenRowlandsMusic
+https://www.youtube.com/@DFTBAndy
+https://www.youtube.com/playlist?list=PLuoApSwcjod-7T8RFhY0__9zPp338XApC
+https://www.youtube.com/@GazWilliams
