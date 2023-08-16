@@ -1,4 +1,4 @@
-# Boss RC-505 (mk1)cheatsheet
+# Boss RC-505 (mk1) cheatsheet
 
 
 ![rc-505 mk1](rc-505_top_gal_res.png) 
