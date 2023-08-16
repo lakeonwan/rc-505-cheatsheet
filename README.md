@@ -13,7 +13,7 @@
 | track  | Undo track              | press the undo/redo button + press ▶️ / ⏺︎ track button to undo, only green blinking tracks can be undo-ed |
 | track  | Redo track              | press the undo/redo button +  press ▶️ / ⏺︎ track button to undo, only red blinking tracks can be redo-ed  |
 | global | Clear All Tracks        | long-press the ALL START/STOP button                                                                       |
-| global | Reset tempo to original | long-press the tap tempo knop to reset tempo to the original tempo of the project/track?, gaz              |
+| global | Reset tempo to original | long-press the tap tempo knop to reset tempo to the original tempo of the project/track?              |
 
 ## 
 ⏸︎ pause
