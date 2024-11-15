@@ -1,4 +1,4 @@
-# Boss RC-505 (mk1)cheatsheet
+# Boss RC-505 (mk1) cheatsheet
 
 
 ![rc-505 mk1](rc-505_top_gal_res.png) 
@@ -14,7 +14,7 @@
 | track  | Redo track                   | press the undo/redo button +  press ▶️ / ⏺︎ track button to undo, only red blinking tracks can be redo-ed   |
 | track  | Enable/Disable Track Effects | press the edit button to enable or disable the track effects. Works only track effects are selected         |
 | global | Clear All Tracks             | long-press the ALL START/STOP button                                                                        |
-| global | Reset tempo to original      | long-press the tap tempo knop to reset tempo to the original tempo of the project/track?, gaz               |
+| global | Reset tempo to original      | long-press the tap tempo knop to reset tempo to the original tempo of the project/track?               |
 
 ## 
 ⏸︎ pause
